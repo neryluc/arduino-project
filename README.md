@@ -1,2 +1,2 @@
 # arduino-project
-A simple Arduino's project with LED's and a buzzer
+A simple Arduino's project with LEDs and a buzzer
